@@ -37,7 +37,7 @@ However, if you wish to proceed without the MuJoCo library, then you can run ESA
 
 To run ESAC on your local machine, clone the repository using the following- 
 ```
-git clone 
+git clone https://github.com/karush17/esac.git
 cd esac
 ```
 
