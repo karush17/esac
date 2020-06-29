@@ -1,0 +1,8 @@
+virtualenv
+argparse==1.1
+gym==0.15.4
+numpy
+torch==1.4.0
+mujoco_py==1.50.1.59
+
+
