@@ -1,5 +1,5 @@
 # Evolve To Control
-Karush Suri, Xiao Qi Shi, Yuri A. Lawryshyn Konstantinos N. Plataniotis
+[Karush Suri](https://karush17.github.io/), Xiao Qi Shi, Yuri A. Lawryshyn Konstantinos N. Plataniotis
 
 <p align="center"><img src="/images/schematic.gif"  height="400" width="650"/></p>
 
